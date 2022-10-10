@@ -35,6 +35,6 @@ elif operator == '/':
 elif operator == '^':
   exponent(value,value2)
 else:
-  print(invalid operation)
+  print('invalid operation')
   
 print('operation complete')
